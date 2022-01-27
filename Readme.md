@@ -1,1 +1,1 @@
-echo My name is Nicolas Colorado.
+My name is Nicolas Colorado.
